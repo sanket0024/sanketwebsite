@@ -62,7 +62,7 @@ class University extends Component {
                             </div>
                             <div id="text" className={rowClasses}>
                                 <div className={typeClasses}>To</div>
-                                <div className={valueClass}>(Present) April 2019</div>
+                                <div className={valueClass}>December 2019 (Expected Graduation Date)</div>
                             </div>
                         </div>
                     </div>
