@@ -42,7 +42,7 @@ class Project extends Component {
                                 <td>3</td>
                                 <td>Plagiarism Detector</td>
                                 <td>Academic</td>
-                                <td>Developing a web application using Java Spring Boot framework and MongoDB as database that detects plagiarism from the submissions of students of different assignments.
+                                <td>Developed a web application using Java Spring Boot framework and MongoDB as database that detects plagiarism from the submissions of students of different assignments.
                                     <br/>
                                     Github - <a href="https://github.com/sanket0024/plagiarism-detector.git" target="_blank">Plagiarism Detector</a>
                                 </td>

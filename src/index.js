@@ -2,11 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import University from './University';
-import registerServiceWorker from './registerServiceWorker';
 import WorkExp from "./WorkExp";
 import Demographic from "./Demographic";
 import Project from "./projects";
-import ContactMe from "./ContactMe";
 import Skills from "./Skills";
 
 ReactDOM.render(
@@ -32,5 +30,3 @@ ReactDOM.render(
     </div>,
     document.getElementById('root')
 );
-
-registerServiceWorker();
