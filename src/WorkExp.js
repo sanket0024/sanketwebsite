@@ -59,7 +59,7 @@ class WorkExp extends Component {
                             </div>
                             <div className="row">
                                 <div className={fieldClasses}>Role</div>
-                                <div className={valuesClasses}>Software Developer Intern</div>
+                                <div className={valuesClasses}>Software Developer Intern (Full stack)</div>
                             </div>
                             <div className="row">
                                 <div className={fieldClasses}></div>
@@ -75,11 +75,11 @@ class WorkExp extends Component {
                             </div>
                             <div className="row">
                                 <div className={fieldClasses}>Technologies</div>
-                                <div className={valuesClasses}>Angular 6 and Salesforce (Apex classes</div>
+                                <div className={valuesClasses}>Java, Maven, SQL, Angular and Salesforce</div>
                             </div>
                             <div className="row">
                                 <div className={fieldClasses}></div>
-                                <div className={valuesClasses}>triggers and configuraiton)</div>
+                                <div className={valuesClasses}>(Apex classes, triggers, and workflows)</div>
                             </div>
                             <div className="mb-5"></div>
                         </div>
